@@ -6,9 +6,11 @@ Ensure to flash only on XE-C (2gb) models, I've not tested on XE-A or XE-B
 
 With that said... it works on my end.
 
+<br>
 
+---
 
-
+<br>
 
 If you've rooted your Google Glass XE-C you've probably lost a full gigabyte of ram.
 

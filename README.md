@@ -1,3 +1,15 @@
+## Disclaimer:
+
+This is a **modified** boot image and is not a stock file. Flash this at your own risk. I won't take any responsibility for any damage, boot loops, or bricked hardware that may result from flashing this image to your device.
+
+Ensure to flash only on XE-C (2gb) models, I've not tested on XE-A or XE-B
+
+With that said... it works on my end.
+
+
+
+
+
 If you've rooted your Google Glass XE-C you've probably lost a full gigabyte of ram.
 
 This happens because the standard rooted kernels in circulation (even those provided by Google itself) were compiled with static 1GB memory maps meant for older XE-A/B models.
@@ -86,9 +98,3 @@ If you own a pair of Glass there's an high chance you already know how to flash.
     ```
     adb shell
     ```
-
-## Disclaimer:
-
-This is a **modified** boot image and is not a stock file. Flash this at your own risk. I won't take any responsibility for any damage, boot loops, or bricked hardware that may result from flashing this image to your device.
-
-With that said... it works on my end.
